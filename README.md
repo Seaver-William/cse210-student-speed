@@ -40,4 +40,4 @@ root                    (project root folder)
 
 ## Authors
 ---
-* # TODO: Add names and emails here
+* 1. Elie Mambou ----mam13003@byui.edu
