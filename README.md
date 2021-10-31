@@ -42,3 +42,4 @@ root                    (project root folder)
 ---
 * 1. Elie Mambou ----mam13003@byui.edu
 2.-Jossue Daniel Ortiz ----ort21013@byui.edu
+3. William seaver --- sea16016@byui.edu
